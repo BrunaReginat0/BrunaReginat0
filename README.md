@@ -1,7 +1,7 @@
 <h1 align="center">Oi, meu nome é Bruna 😄</h1>
 
 <p align="center">
-  💻 Desenvolvedora apaixonada por tecnologia e inovação<br>
+  💻 Analista de Qualidade de Software apaixonada por tecnologia e inovação<br>
   🎯 Focada em qualidade e automação de testes e processos
 </p>
 
